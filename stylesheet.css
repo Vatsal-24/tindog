@@ -1,0 +1,185 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(245, 209, 215) ;
+    margin-bottom: 0px;
+}
+
+/* navbar */
+.navbar-brand{
+    font-family:"ubuntu";
+    font-size: 2.5rem;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    color:white;
+}
+
+.nav-item{
+     padding:16px; 
+}
+
+    /* general title */
+#title{
+    background-color: #ff4c68;
+    color:white;   
+}
+
+.title-1{
+    padding-bottom: 93px;
+    padding-top: 88px;
+}
+
+h1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+    width:50%;
+    margin: auto;
+    color:white;
+    
+}
+.container-fluid{
+    padding:0 10%;
+}
+
+.container{
+    text-align: center;
+}
+
+#iphone{
+    width:50%;
+    height:auto;
+    transform: rotate(0.05turn);
+}
+
+/* Button */
+.button{
+    margin-right:20px;
+}
+
+/* features */
+#features{
+    padding:7% 15%;
+    background-color: rgb(245, 209, 215);
+}
+.feature-box{
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+    padding:5%;
+    padding-bottom: 10px;
+}
+
+p{
+    color:#8f8f8f;
+}
+
+.icon{
+    color:#ff4c68;
+    margin-bottom: 15px;;
+}
+.icon:hover{
+    color:red;
+}
+
+
+/* testimonial */
+
+#testimonials{
+    background-color: #ff4c68;
+    text-align: center;
+    padding:3%;
+    color:white;
+    border-top: 2px solid #ff4c68;
+}
+
+
+.testimonial-image{
+    border-radius: 50%;
+    width:20%;
+    padding:1%;
+}
+
+#testimonial-dog-name{
+    color:black;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+/* pricing */
+
+ #pricing{
+    background-color:rgb(245, 209, 215);
+    padding-top: 5%;
+    margin-bottom: 5%;
+}
+
+.card{
+    background-color:rgb(245, 209, 215);
+    border:3px solid black;
+    margin:auto;
+    width:80%;
+}
+
+.class-header{
+    padding-top: 9px;
+}
+
+#pricing-text{
+    margin-bottom: 4%;
+}
+
+#pricing-heading{
+    color:black;
+}
+
+
+.individual-card{
+    margin-bottom: 5%;
+}
+
+#card-price{
+    margin:auto;
+    width:180px;
+}
+
+.price-button{
+    border: 2px solid black;
+}
+
+/* cta */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 2% 3% 1% 3%;
+}
+
+#cta-text{
+    margin-bottom:2%;
+}
+
+/* footer */
+
+#footer{
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+#footer-text{
+    margin-bottom: 0px;
+    color:white;
+    font-size:0.8rem;
+}
+
+
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
